@@ -1,0 +1,13 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="QuickList.QuickAction">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+</keymap>
