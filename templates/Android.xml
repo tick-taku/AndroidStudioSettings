@@ -1,0 +1,9 @@
+<templateSet group="Android">
+  <template name="liveData" value="private val _$name$: androidx.lifecycle.MutableLiveData&lt;$clazz$&gt; = MutableLiveData()&#10;val $name$: androidx.lifecycle.LiveData&lt;$clazz$&gt; = _$name$" description="Make safety private and public LiveData" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="clazz" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
