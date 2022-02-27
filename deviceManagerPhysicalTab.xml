@@ -12,6 +12,18 @@
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1C031FDF6005RV" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-27T09:40:55.450670Z" />
+        <name value="Google Pixel 6" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
