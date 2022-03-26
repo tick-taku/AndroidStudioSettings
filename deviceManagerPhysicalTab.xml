@@ -5,10 +5,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="1A111FDEE002WG" />
+            <value value="1C031FDF6005RV" />
           </Key>
         </key>
-        <name value="Google Pixel 6 Pro" />
+        <lastOnlineTime value="2022-03-26T09:55:47.948210Z" />
+        <name value="Google Pixel 6" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -16,10 +17,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="1C031FDF6005RV" />
+            <value value="1A111FDEE002WG" />
           </Key>
         </key>
-        <name value="Google Pixel 6" />
+        <name value="Google Pixel 6 Pro" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
