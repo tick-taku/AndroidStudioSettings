@@ -1,5 +1,8 @@
-<templateSet group="AndroidKotlin">
+<templateSet group="AndroidCompose">
   <template name="com" value="@androidx.compose.runtime.Composable&#10;fun $NAME$() {&#10;$END$&#10;}&#10;&#10;@androidx.compose.ui.tooling.preview.Preview(showBackground = true)&#10;@androidx.compose.runtime.Composable&#10;fun Preview$NAME$() {&#10;$END$&#10;}" description="Create Compsable function with preview" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
   </template>
 </templateSet>
