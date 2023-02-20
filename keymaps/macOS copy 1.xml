@@ -1,0 +1,7 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="QuickList.QuickAction">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
+</keymap>
