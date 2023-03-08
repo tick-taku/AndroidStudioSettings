@@ -1,11 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:minne " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:minne " />
-        <option value="package:minne Aut" />
-        <option value="package:minne user-age" />
+        <option value="package:mine " />
+        <option value="package:mine cookie" />
+        <option value="package:mine beare" />
+        <option value="package:mine user-a" />
+        <option value="package:mine x-client" />
+        <option value="package:mine" />
+        <option value="package:mine MainActivity" />
+        <option value="package:mine coroutine" />
       </list>
     </option>
   </component>
