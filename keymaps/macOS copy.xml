@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="CloseActiveTab" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+  </action>
   <action id="DebugClass" />
   <action id="DeviceAndSnapshotComboBox">
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
@@ -17,6 +20,15 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
   </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
