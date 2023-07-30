@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AndroidEntry" />
+    <option name="mostRecentlyUsed" value="package:jp.co.paperboy.minne.app.dev " />
     <option name="nonFavorites">
       <list>
+        <option value="package:jp.co.paperboy.minne.app.dev " />
         <option value="AndroidEntry" />
         <option value="package:minne" />
         <option value="package:minne tag: Log" />
