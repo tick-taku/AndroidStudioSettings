@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="HelpUrl" type="CLASS" />
+      <mapping ext="graphql" type="GraphQL" />
       <mapping pattern="GasEquipmentSearch" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -9,10 +10,9 @@
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="properties_template" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="preferences_pb" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
+      <removed_mapping ext="graphql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
