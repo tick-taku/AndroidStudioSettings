@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="HelpUrl" type="CLASS" />
-      <mapping ext="graphql" type="GraphQL" />
       <mapping pattern="GasEquipmentSearch" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
