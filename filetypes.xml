@@ -6,10 +6,10 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="tmp" type="PLAIN_TEXT" />
-      <mapping ext="properties_template" type="PLAIN_TEXT" />
-      <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="preferences_pb" type="PLAIN_TEXT" />
+      <mapping ext="properties_template" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="pb" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="graphql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
