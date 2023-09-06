@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="memorial" />
     <option name="nonFavorites">
       <list>
-        <option value="memorial" />
         <option value="package:mine " />
+        <option value="memorial" />
         <option value="package:mine memorial" />
         <option value="package:jp.co.paperboy.minne.app.dev " />
         <option value="package:jp.co.paperboy.minne.app.dev UserProdu" />
