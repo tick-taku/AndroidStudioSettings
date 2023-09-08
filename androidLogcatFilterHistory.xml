@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine Mig" />
         <option value="memorial" />
         <option value="package:mine memorial" />
         <option value="package:jp.co.paperboy.minne.app.dev " />
@@ -21,7 +22,6 @@
         <option value="package:mine beare" />
         <option value="package:mine user-a" />
         <option value="package:mine x-client" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
