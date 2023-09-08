@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine v5" />
         <option value="package:mine Mig" />
         <option value="memorial" />
         <option value="package:mine memorial" />
@@ -21,7 +22,6 @@
         <option value="package:mine cookie" />
         <option value="package:mine beare" />
         <option value="package:mine user-a" />
-        <option value="package:mine x-client" />
       </list>
     </option>
   </component>
