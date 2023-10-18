@@ -3,9 +3,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="DebugClass" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
   <action id="QuickList.QuickAction">
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
+  <action id="ToggleFullScreen" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="VcsHistory.ShowAllAffected" />
   <action id="android.deploy.ApplyChanges">
