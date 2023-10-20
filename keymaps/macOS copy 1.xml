@@ -7,7 +7,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
   <action id="QuickList.QuickAction">
-    <keyboard-shortcut first-keystroke="ctrl meta a" />
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="ToggleFullScreen" />
   <action id="Vcs.Log.ShowAllAffected" />
