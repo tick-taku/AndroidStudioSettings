@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
