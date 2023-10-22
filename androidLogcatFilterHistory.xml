@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:minne " />
+        <option value="package:minne header" />
         <option value="package:mine " />
         <option value="package:mine v5" />
         <option value="package:mine Mig" />
@@ -22,7 +23,6 @@
         <option value="package:minne Repro" />
         <option value="package:mine cookie" />
         <option value="package:mine beare" />
-        <option value="package:mine user-a" />
       </list>
     </option>
   </component>
