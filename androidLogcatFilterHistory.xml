@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:minne " />
+    <option name="mostRecentlyUsed" value="package:minne CurationS" />
     <option name="nonFavorites">
       <list>
+        <option value="package:minne CurationS" />
+        <option value="package:minne" />
+        <option value="package:minne tag:Curation" />
         <option value="package:minne " />
         <option value="package:minne header" />
         <option value="package:mine " />
@@ -13,7 +16,6 @@
         <option value="package:jp.co.paperboy.minne.app.dev " />
         <option value="package:jp.co.paperboy.minne.app.dev UserProdu" />
         <option value="AndroidEntry" />
-        <option value="package:minne" />
         <option value="package:minne tag: Log" />
         <option value="package:minne tag:Log " />
         <option value="package:minne tag:AppInitializer " />
@@ -21,8 +23,6 @@
         <option value="package:minne ProductLog" />
         <option value="package:minne tag:jp.co.paperboy.minne.core.logger.log.ProductLog " />
         <option value="package:minne Repro" />
-        <option value="package:mine cookie" />
-        <option value="package:mine beare" />
       </list>
     </option>
   </component>
