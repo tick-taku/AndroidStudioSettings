@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Remote" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine Remote" />
         <option value="package:mine " />
         <option value="package:minne" />
@@ -22,7 +23,6 @@
         <option value="package:minne tag:Log " />
         <option value="package:minne tag:AppInitializer " />
         <option value="package:minne tag:log" />
-        <option value="package:minne ProductLog" />
       </list>
     </option>
   </component>
