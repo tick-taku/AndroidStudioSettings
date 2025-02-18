@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine access" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine access" />
         <option value="package:mine " />
         <option value="package:mine swap" />
         <option value="package:mine auth" />
@@ -21,7 +23,6 @@
         <option value="package:jp.co.paperboy.minne.app.dev UserProdu" />
         <option value="AndroidEntry" />
         <option value="package:minne tag: Log" />
-        <option value="package:minne tag:Log " />
       </list>
     </option>
   </component>
