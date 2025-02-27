@@ -3,5 +3,10 @@
     <option name="acceptedTermsVersion" value="3" />
     <option name="contextSharingModeV2" value="NeverShare" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1740644686356">今の branch 上の差分内で ktlin でエラーになる箇所の特定はできますか？</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
