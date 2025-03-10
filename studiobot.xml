@@ -5,6 +5,12 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1741581021160">I'm getting the following error while building my project. The error is: Unresolved reference 'ProcessLifecycleOwner'.
+```
+$ ./gradlew :app:compileStagingStandardDebugKotlin
+e: file:///Users/itotakumi/ghq/github.com/Taimee/taimee-android/app/src/main/java/jp/co/taimee/MyApplication.kt:85:9 Unresolved reference 'ProcessLifecycleOwner'.
+```
+How do I fix this?日本語で返してください</historyEntry>
         <historyEntry timestamp="1740644686356">今の branch 上の差分内で ktlin でエラーになる箇所の特定はできますか？</historyEntry>
       </list>
     </option>
