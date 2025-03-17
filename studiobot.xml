@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1742203065535">ZonedDateTime の変数が現在時刻から24時間以内かどうかを判定する関数を書いてください</historyEntry>
         <historyEntry timestamp="1741581021160">I'm getting the following error while building my project. The error is: Unresolved reference 'ProcessLifecycleOwner'.
 ```
 $ ./gradlew :app:compileStagingStandardDebugKotlin
