@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1742289529516">Kotlin において object を宣言することと top level に関数を宣言することではどちらがプラクティスに近いですか？</historyEntry>
         <historyEntry timestamp="1742279113381">その機能内で現在登録されている電話番号と変更しようとしている番号を入力させます。
 それぞれの変数に適切な名前をいくつか挙げてください</historyEntry>
         <historyEntry timestamp="1742278923177">電話番号変更機能を実装しようとしています。
