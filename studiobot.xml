@@ -5,6 +5,12 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1742881411005">日本語でお願いします</historyEntry>
+        <historyEntry timestamp="1742881296039">Explain: FATAL EXCEPTION: main
+Process: jp.co.taimee.debug, PID: 28078
+java.lang.ArrayIndexOutOfBoundsException: length=20; index=20
+at androidx.compose.foundation.text.input.internal.LegacyCursorAnchorInfoBuilder_androidKt.addCharacterBounds(LegacyCursorAnchorInfoBuilder.android.kt:164)
+at androidx.compose.foundation.text.input.internal.LegacyCursorAnchorInfoBuilder_androidKt.build(LegacyCursorAnchorInfoBuilder.android.kt:83) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1742289529516">Kotlin において object を宣言することと top level に関数を宣言することではどちらがプラクティスに近いですか？</historyEntry>
         <historyEntry timestamp="1742279113381">その機能内で現在登録されている電話番号と変更しようとしている番号を入力させます。
 それぞれの変数に適切な名前をいくつか挙げてください</historyEntry>
