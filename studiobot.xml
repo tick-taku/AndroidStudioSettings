@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1742882744528">MaxLengthVisualTransformation を追加したことが原因だと思いますが原因と解決策はわかりますか？</historyEntry>
         <historyEntry timestamp="1742881411005">日本語でお願いします</historyEntry>
         <historyEntry timestamp="1742881296039">Explain: FATAL EXCEPTION: main
 Process: jp.co.taimee.debug, PID: 28078
