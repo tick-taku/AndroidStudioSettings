@@ -5,6 +5,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1742983649666">.idea/AndroidProjectSystem.xml はどのような役割のファイルですか？</historyEntry>
+        <historyEntry timestamp="1742983544599">どんな文字が入っているかわからない String に対して数字のみにフォーマットしたいです。
+どのように記述できますか？</historyEntry>
         <historyEntry timestamp="1742882744528">MaxLengthVisualTransformation を追加したことが原因だと思いますが原因と解決策はわかりますか？</historyEntry>
         <historyEntry timestamp="1742881411005">日本語でお願いします</historyEntry>
         <historyEntry timestamp="1742881296039">Explain: FATAL EXCEPTION: main
